@@ -142,7 +142,7 @@ int main(){
     break;
    }
    
-   printf("Amazing Right Triangle :)");
+   printf("Great job on the triangle!");
 
    return 0;
 }
