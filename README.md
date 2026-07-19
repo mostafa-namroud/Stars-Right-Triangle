@@ -35,5 +35,5 @@ put the number of the stars: 4
  * *
  * * *
  * * * *
-Amazing Right Triangle :)
+Triangle complete! :)
 ```
