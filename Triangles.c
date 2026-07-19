@@ -1,3 +1,4 @@
+// Program to print right-triangle star patterns
 #include <stdio.h>
 int n;
 
